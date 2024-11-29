@@ -49,7 +49,7 @@ cmake_ninja_workdir = C$:\Coding\Clion_PS\cmake-build-debug\
 
 build cmake_object_order_depends_target_Out: phony || CMakeFiles\Out.dir
 
-build CMakeFiles\Out.dir\BOJ_31654.cpp.obj: CXX_COMPILER__Out_unscanned_Debug C$:\Coding\Clion_PS\BOJ_31654.cpp || cmake_object_order_depends_target_Out
+build CMakeFiles\Out.dir\BOJ_7287.cpp.obj: CXX_COMPILER__Out_unscanned_Debug C$:\Coding\Clion_PS\BOJ_7287.cpp || cmake_object_order_depends_target_Out
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
   OBJECT_DIR = CMakeFiles\Out.dir
   OBJECT_FILE_DIR = CMakeFiles\Out.dir
@@ -64,7 +64,7 @@ build CMakeFiles\Out.dir\BOJ_31654.cpp.obj: CXX_COMPILER__Out_unscanned_Debug C$
 #############################################
 # Link the executable Out.exe
 
-build Out.exe: CXX_EXECUTABLE_LINKER__Out_Debug CMakeFiles\Out.dir\BOJ_31654.cpp.obj
+build Out.exe: CXX_EXECUTABLE_LINKER__Out_Debug CMakeFiles\Out.dir\BOJ_7287.cpp.obj
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib

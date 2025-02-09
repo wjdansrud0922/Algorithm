@@ -4,7 +4,7 @@
 
 int main() {
     std::string line1 = "`1234567890-=";
-    std::string line2 = "QWERTYUIOP[]\\'";
+    std::string line2 = "QWERTYUIOP[]\\";
     std::string line3 = "ASDFGHJKL;\'";
     std::string line4 = "ZXCVBNM,./";
     std::string cmd;

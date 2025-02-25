@@ -3,4 +3,5 @@ project(Clion_PS)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Out BOJ_4378.cpp)
+
+add_executable(Out BOJ_10935.cpp)

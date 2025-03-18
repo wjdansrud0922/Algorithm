@@ -1,4 +1,4 @@
-#include <algorithm>
+//https://www.acmicpc.net/problem/2985
 #include <iostream>
 #include <vector>
 

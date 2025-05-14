@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bubbleSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bubbleSort-Debug-1f1b626804a514b1dd31.json",
+					"name" : "bubbleSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "circular_queue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-circular_queue-Debug-bcb9b24c72e01dd82bfe.json",
+					"name" : "circular_queue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "insertionSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-insertionSort-Debug-7237aa89a068920a6ddd.json",
+					"name" : "insertionSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "selectionSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-selectionSort-Debug-f9db6ff78f965b55ca1d.json",
+					"name" : "selectionSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stack-Debug-399b013c0f9ef3e5e682.json",
+					"name" : "stack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stack_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stack_2-Debug-e67d35a41bdf5f00acce.json",
+					"name" : "stack_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Coding/C.C++/PS/cmake-build-debug",
+		"source" : "D:/Coding/C.C++/PS"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

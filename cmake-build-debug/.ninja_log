@@ -1,4 +1,16 @@
 # ninja log v5
 10	460	7669505372120270	CMakeFiles/PS.dir/main.cpp.obj	642976d9f8e7e44
+619	1031	7687980088438980	stack_2.exe	e204e0cb7d89fb02
 461	1038	7669505377750256	PS.exe	827dcec93f6c01ba
-9	311	7669844373121763	build.ninja	84a1712917901808
+62	845	7689210527233938	build.ninja	84a1712917901808
+20	618	7687980085197837	CMakeFiles/stack_2.dir/자료구조/stack_2.cpp.obj	192fd844a2a56680
+784	1064	7688854889344671	bubbleSort.exe	d8baff4b809dc3f3
+18	783	7688854887062081	CMakeFiles/bubbleSort.dir/자료구조/sort/bubbleSort.cpp.obj	65252d28343f120d
+20	1248	7689210686685568	CMakeFiles/selectionSort.dir/자료구조/sort/selectionSort.cpp.obj	b4b65d1b1afb9616
+1249	1993	7689210693936180	selectionSort.exe	1ff526805bcaba88
+21	744	7689210948876831	CMakeFiles/insertionSort.dir/자료구조/sort/insertionSort.cpp.obj	4831400deabf05e7
+746	1516	7689210956398352	insertionSort.exe	1b93be463dc5486c
+10	711	7689212203846995	CMakeFiles/insertionSort.dir/자료구조/sort/insertionSort.cpp.obj	4831400deabf05e7
+713	1162	7689212207735453	insertionSort.exe	1b93be463dc5486c
+4	678	7689212713067320	CMakeFiles/insertionSort.dir/자료구조/sort/insertionSort.cpp.obj	4831400deabf05e7
+679	1144	7689212716798990	insertionSort.exe	1b93be463dc5486c

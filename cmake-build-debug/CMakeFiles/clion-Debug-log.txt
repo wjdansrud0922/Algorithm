@@ -1,4 +1,5 @@
 C:\Users\User\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/User/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\Coding\C.C++\PS -B D:\Coding\C.C++\PS\cmake-build-debug
--- Configuring done (0.2s)
+-- Configuring done (0.1s)
+CMake Error: CMake can not determine linker language for target: CMakeLists
 -- Generating done (0.0s)
--- Build files have been written to: D:/Coding/C.C++/PS/cmake-build-debug
+CMake Generate step failed.  Build files cannot be regenerated correctly.
